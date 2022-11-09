@@ -3,7 +3,7 @@
 # Vision UI Lib v3
 - Desigend by Sius and BruhOOFBoi
 - Scripted by Loco_CTO
-- Stealed by kane
+- Licensed by kane
 
 *Heavily inspired by [Rayfield UI Library](https://github.com/shlexware/Rayfield/blob/main/Documentation.md)* and *[Vision V2](github.com)*
 
