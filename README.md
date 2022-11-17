@@ -5,7 +5,7 @@
 - Scripted by Loco_CTO
 - Licensed by kane
 
-*Heavily inspired by [Rayfield UI Library](https://github.com/shlexware/Rayfield/blob/main/Documentation.md)* and *[Vision V2](github.com)*
+*Heavily inspired by [Rayfield UI Library](https://github.com/shlexware/Rayfield/blob/main/Documentation.md)* and *[Vision V2](https://github.com/Loco-CTO/UI-Library/tree/main/VisionLibV2)*
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/112562956/198860516-a5f74c21-d911-4bed-aabc-06e350faeae0.png)
