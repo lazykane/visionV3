@@ -1,9 +1,9 @@
 ![Vison Lib Title only](https://user-images.githubusercontent.com/112562956/198860495-6f486850-4919-4b28-9692-6b4125ae116c.png)
 
 # Vision UI Lib v3
-- Desigend by Sius and BruhOOFBoi
+- Designed by Sius and BruhOOFBoi
 - Scripted by Loco_CTO
-- Licensed by kane
+- Licensed by lazykane
 
 *Heavily inspired by [Rayfield UI Library](https://github.com/shlexware/Rayfield/blob/main/Documentation.md)* and *[Vision V2](https://github.com/Loco-CTO/UI-Library/tree/main/VisionLibV2)*
 
@@ -15,7 +15,7 @@
 
 ## 🔴Loading the library
 ```lua
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Loco-CTO/UI-Library/main/VisionLibV2/source.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/lazykane/visionV3/main/VISION.lua'))()
 ```
 
 ### Destroy the library
